@@ -1,0 +1,9 @@
+/node_modules
+/config
+/plugins
+/static
+.npmignore
+package.json
+sanity.json 
+tsconfig.json 
+yarn.lock
